@@ -16,6 +16,7 @@ function fibs(num) {
     return result;
 }
 
+// Test cases
 console.log(fibs(1));
 console.log(fibs(2));
 console.log(fibs(8));
