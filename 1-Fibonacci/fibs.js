@@ -17,6 +17,6 @@ function fibs(num) {
 }
 
 // Test cases
-console.log(fibs(1));
-console.log(fibs(2));
-console.log(fibs(8));
+console.log(`fibs(1) result: ${fibs(1)}`);
+console.log(`fibs(2) result: ${fibs(2)}`);
+console.log(`fibs(8) result: ${fibs(8)}`);

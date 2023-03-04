@@ -16,6 +16,6 @@ function fibsRec(num) {
 }
 
 // Test cases
-console.log(fibsRec(1));
-console.log(fibsRec(2));
-console.log(fibsRec(8));
+console.log(`fibsRec(1) result: ${fibsRec(1)}`);
+console.log(`fibsRec(2) result: ${fibsRec(2)}`);
+console.log(`fibsRec(8) result: ${fibsRec(8)}`);
